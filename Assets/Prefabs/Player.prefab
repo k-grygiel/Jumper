@@ -203,7 +203,7 @@ MonoBehaviour:
   speed: 25
   rotationSpeed: 1
   groundDrag: 2
-  jumpForce: 5
+  jumpForce: 4
   jumpMovementMultiplier: 0.3
   numberOfJumps: {fileID: 11400000, guid: 774f48e44be45214d9174b7372156846, type: 2}
   yOffset: 0.7
